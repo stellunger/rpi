@@ -1,0 +1,451 @@
+
+/* font
+================================================== */
+
+		@font-face {
+		font-family:NeoSansPro-Bold; 
+		src: url("../fonts/NeoSans/NeoSansPro-Bold.otf") format("opentype");
+		src: url("../fonts/NeoSans/NeoSansPro-Bold.ttf") format("truetype");
+		src: url("../fonts/NeoSans/NeoSansPro-Bold.woff") format("woff");
+		src: url("../fonts/NeoSans/NeoSansPro-Bold.eot");
+		src: url("../fonts/NeoSans/NeoSansPro-Bold.svg");
+		}
+
+		@font-face {
+		font-family:NeoSansPro-Italic; 
+		src: url("../fonts/NeoSans/NeoSansPro-Italic.otf") format("opentype");
+		src: url("../fonts/NeoSans/NeoSansPro-Italic.ttf") format("truetype");
+		src: url("../fonts/NeoSans/NeoSansPro-Italic.woff") format("woff");
+		src: url("../fonts/NeoSans/NeoSansPro-Italic.eot");
+		src: url("../fonts/NeoSans/NeoSansPro-Italic.svg");
+		}
+
+		@font-face {
+		font-family:NeoSansPro-Light; 
+		src: url("../fonts/NeoSans/NeoSansPro-Light.otf") format("opentype");
+		src: url("../fonts/NeoSans/NeoSansPro-Light.ttf") format("truetype");
+		src: url("../fonts/NeoSans/NeoSansPro-Light.woff") format("woff");
+		src: url("../fonts/NeoSans/NeoSansPro-Light.eot");
+		src: url("../fonts/NeoSans/NeoSansPro-Light.svg");
+		}
+
+		@font-face {
+		font-family:NeoSansPro-Medium; 
+		src: url("../fonts/NeoSans/NeoSansPro-Medium.otf") format("opentype");
+		src: url("../fonts/NeoSans/NeoSansPro-Medium.ttf") format("truetype");
+		src: url("../fonts/NeoSans/NeoSansPro-Medium.woff") format("woff");
+		src: url("../fonts/NeoSans/NeoSansPro-Medium.eot");
+		src: url("../fonts/NeoSans/NeoSansPro-Medium.svg");
+		}
+
+		@font-face {
+		font-family:NeoSansPro-Regular; 
+		src: url("../fonts/NeoSans/NeoSansPro-Regular.otf") format("opentype");
+		src: url("../fonts/NeoSans/NeoSansPro-Regular.ttf") format("truetype");
+		src: url("../fonts/NeoSans/NeoSansPro-Regular.woff") format("woff");
+		src: url("../fonts/NeoSans/NeoSansPro-Regular.eot");
+		src: url("../fonts/NeoSans/NeoSansPro-Regular.svg");
+		}
+
+		@font-face {
+		font-family:NeoSansPro-Ultra; 
+		src: url("../fonts/NeoSans/NeoSansPro-Ultra.otf") format("opentype");
+		src: url("../fonts/NeoSans/NeoSansPro-Ultra.ttf") format("truetype");
+		src: url("../fonts/NeoSans/NeoSansPro-Ultra.woff") format("woff");
+		src: url("../fonts/NeoSans/NeoSansPro-Ultra.eot");
+		src: url("../fonts/NeoSans/NeoSansPro-Ultra.svg");
+		}
+
+
+			
+/* body
+================================================== */
+		
+		html, body {                  						
+		font-family:NeoSansPro-Regular, Arial;	
+		font-weight:normal;		
+		font-size:20px;          						
+		text-indent:0;  
+		text-align:justify;							
+		line-height:24px;         						
+		width:100%;
+		min-width:1000px;
+		height:100%;
+		margin:0 auto;                              			
+		padding:0;                            	 		
+		color:#252525;	
+		background:#f7f7f7;
+		}	
+		
+		::selection {color:#ffffff;	background:#B1D2F9;}
+		::-moz-selection {color:#ffffff;	background:#B1D2F9;}
+		
+		body img {border:none;}						
+
+		a {text-decoration:none;} 
+		
+		a:link {color:#ffffff;} 				
+		a:visited {color:#ffffff;} 
+		a:hover {color:#ffffff;} 
+		a:active {color:#ffffff;} 
+		  		
+		.clear {clear:both;}		
+		
+/* header
+================================================== */
+			
+		#header {
+		position:relative;
+		width:100%;
+		margin:0;
+		padding:200px 0 50px 0;
+		background:#f0f0f0; 
+		}
+		
+		#logo {
+		width:296px;
+		height:293px;
+		padding:0;
+		position:absolute;
+		top:-120px;
+		left:50%;
+		margin-left:-148px;
+		z-index:0;
+		background:url('../images/logo.png') no-repeat top left; 
+		}
+			
+		#menu-wrapper {
+		position:absolute;
+		top:100px;
+		left:0;
+		width:100%;
+		height:50px;
+		margin:0;
+		padding:0;
+		background:rgba(209,46,54,0.8);
+		z-index:2;
+		}	
+		
+		ul {
+		margin:0;
+		padding:0;
+		}
+				
+		#menu {
+		width:1000px;
+		margin:0 auto;
+		padding:0;
+		list-style-type:none;
+		font-family:"Sansus Webissimo", Arial;
+		text-transform:uppercase;
+		font-weight:normal;
+		font-size:14px;
+		line-height:14px;
+		text-align:center;
+		color:#ffffff;
+		letter-spacing:1.4px;
+		}
+
+		#menu li {
+		display:inline-block;
+		margin:0 18px;
+		padding-top:18px;	
+		}
+
+		#menu a:link {color:#ffffff;} 				
+		#menu a:visited {color:#ffffff;} 
+		#menu a:hover {color:#ffffff; border-bottom:2px solid #ffffff;} 
+		#menu a:active {color:#ffffff;} 
+	
+		#menu a.active:link {color:#622b2d;} 				
+		#menu a.active:visited {color:#622b2d;} 
+		#menu a.active:hover {color:#622b2d; border-bottom:2px solid #622b2d;} 
+		#menu a.active:active {color:#622b2d;} 
+		
+/* planning
+================================================== */
+			
+		#planning {
+		position:relative;
+		width:100%;
+		margin:0;
+		padding:0 0 20px 0;
+		background:#f0f0f0;
+		}
+		
+		#planning-box {
+		width:1000px;
+		margin:0 auto;
+		padding:0;
+		}
+			
+		.planning-box {
+		width:470px;
+		margin:0 15px;
+		padding:10px 0;
+		float:left;
+		text-align:left;
+		}	
+		
+		#planning-box img {
+		width:200px;
+		float:left;
+		margin:0;
+		padding:0 0 35px 0;
+		}
+			
+		#planning-box h1 {
+		width:230px;
+		margin:0;
+		padding:5px 20px 15px 20px;
+		float:left;
+		font-family:"Sansus Webissimo", Arial;
+		font-weight:normal;
+		text-align:left;
+		font-size:20px;
+		line-height:24px;
+		cursor:default;
+		color:#3e3e3e;
+		text-transform:uppercase;
+		}
+			
+		#planning-box a {
+		padding:0;
+		margin:10px 20px;
+		font-family: Arial;
+		font-weight:normal;
+		text-align:left;
+		font-size:14px;
+		line-height:38px;
+		color:#4275b3;
+		border-bottom:1px solid #4275b3;
+		}
+		
+		#planning-box a:hover {
+		color:#F4656B;
+		border-bottom:1px solid #F4656B;
+		}
+
+/* planning-line
+================================================== */
+			
+		#planning-line {
+		position:relative;
+		width:100%;
+		height:75px;
+		margin:0;
+		padding:0;
+		background:#ffffff;
+		}
+		
+		#planning-line-box {
+		width:810px;
+		margin:0 auto;
+		padding:0;
+		}
+			
+		#planning-line-box h1 {
+		margin:0 0 0 80px;
+		padding:5px;
+		font-family:"Sansus Webissimo", Arial;
+		font-weight:normal;
+		text-align:left;
+		font-size:16px;
+		line-height:16px;
+		cursor:default;
+		color:#3e3e3e;
+		text-transform:uppercase;
+		}
+			
+		.planning-line {
+		width:250px;
+		margin:0 10px;
+		padding:25px 0;
+		float:left;
+		}
+		
+		.line-box1 {
+		background:url('../images/d1.png') no-repeat 20px 15px; 
+		}
+		
+		.line-box2 {
+		background:url('../images/d2.png') no-repeat 20px 15px; 
+		}
+		
+		.line-box3 {
+		background:url('../images/d3.png') no-repeat 20px 15px; 
+		}
+		
+/* geography
+================================================== */
+			
+		#geography {
+		position:relative;
+		width:100%;
+		margin:0;
+		padding:50px 0;
+		background:#f0f0f0;
+		}
+		
+		#geography h1 {	
+		width:100%;
+		margin:0;
+		padding:10px 0;
+		font-family:"Sansus Webissimo", Arial;
+		text-transform:uppercase;
+		font-weight:normal;
+		text-align:center;
+		font-size:24px;
+		line-height:26px;
+		cursor:default;
+		color:#0076B7;
+		}
+			
+		#geography h2 {	
+		display:none;
+		width:100%;
+		margin:0;
+		padding:10px 0;
+		font-family:"Sansus Webissimo", Arial;
+		text-transform:uppercase;
+		font-weight:normal;
+		text-align:center;
+		font-size:36px;
+		line-height:36px;
+		cursor:default;
+		color:#0076B7;
+		}
+		
+		#open-g {
+		width:32px;
+		height:30px;
+		margin:10px auto;
+		cursor:pointer;
+		background:url('../images/open-g.png') no-repeat; 
+		}
+		
+		#close-g {
+		display:none;
+		width:32px;
+		height:30px;
+		margin:10px auto;
+		cursor:pointer;
+		background:url('../images/close-g.png') no-repeat; 
+		}
+		
+		#geography-img {
+		width:735px;
+		height:100px;
+		margin:10px auto;
+		padding:0;
+		}	
+		
+		#geography-img img {
+		width:100%;
+		margin:0;
+		padding:0;
+		}				
+			
+/* box3
+================================================== */
+			
+		#box3-wrapper {
+		position:relative;
+		width:100%;
+		margin:0;
+		padding:0;
+		background:#ffffff;
+		box-shadow: 1px -10px 24px -16px #000000;
+		}
+		
+		#box3 {
+		width:1000px;
+		margin:0 auto;
+		padding:50px 0;
+		}
+			
+		.box3 {
+		width:220px;
+		margin:0 15px;
+		padding:10px 0;
+		float:left;
+		text-align:center;
+		}	
+		
+		#box3 h1 {
+		width:100%;
+		margin:0;
+		padding:5px 0;
+		font-family:NeoSansPro-Medium, Arial;
+		text-transform:uppercase;
+		font-weight:normal;
+		text-align:left;
+		font-size:24px;
+		line-height:24px;
+		cursor:default;
+		color:#363a3d;
+		}	
+		
+		#box3 h2 {
+		width:100%;
+		margin:0;
+		padding:10px 0;
+		font-family:NeoSansPro-Medium, Arial;
+		font-weight:normal;
+		text-align:left;
+		font-size:14px;
+		line-height:20px;
+		cursor:default;
+		color:#363a3d;
+		}	
+		
+		#box3 h2 a {
+		color:#0076B7;
+		border-bottom:1px solid #0076B7;
+		font-family:NeoSansPro-Regular, Arial;
+		}
+		
+		#box3 h3 {
+		width:100%;
+		margin:0;
+		padding:5px 0;
+		font-family:NeoSansPro-Regular, Arial;
+		font-weight:normal;
+		text-align:left;
+		font-size:14px;
+		line-height:16px;
+		cursor:default;
+		color:#363a3d;
+		}	
+
+		#box3 h4 {
+		width:100%;
+		margin:35px 0 0 0;
+		padding:5px 0;
+		font-family:NeoSansPro-Medium, Arial;
+		font-weight:normal;
+		text-align:center;
+		font-size:14px;
+		line-height:16px;
+		cursor:default;
+		color:#363a3d;
+		}	
+
+		#box3 h5 {
+		width:100%;
+		margin:0;
+		padding:0;
+		font-family:NeoSansPro-Regular, Arial;
+		font-weight:normal;
+		text-align:center;
+		text-transform:uppercase;
+		font-size:14px;
+		line-height:16px;
+		cursor:default;
+		color:#363a3d;
+		}	
+		
+		#box3 h5 a {
+		color:#0076B7;
+		}
+		
