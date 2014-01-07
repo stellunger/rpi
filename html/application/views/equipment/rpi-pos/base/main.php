@@ -6,7 +6,7 @@
 					<a href="main"><div id="opisaniye-button">Описание</div></a>	
 					<a href="plan"><div id="primeneniye-button">Чертеж</div></a>
 																								
-					<div id="opros-list-button"><a href="questionnaire.html"><img src="<?php echo base_url(); ?>images/d4.png" alt="">
+					<div id="opros-list-button"><a href="<?php echo base_url(); ?>ol/RPI-POS.docx"><img src="<?php echo base_url(); ?>images/d4.png" alt="">
 					<span>Заполнить опросный лист</span></a></div>
 					<div class="clear"></div>
 
@@ -47,6 +47,10 @@
 					рыбохозяйственного, так и до уровня дальнейшего применения 
 					для технических нужд в составе системы оборотного водоснабжения
 					предприятия.</p>
+
+					<br>
+
+					<center><img src="<?php echo base_url(); ?>images/products/rpi-pos-02.png" /></center>
 
 										
 				</div>

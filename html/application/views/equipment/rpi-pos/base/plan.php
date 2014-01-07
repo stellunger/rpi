@@ -1,16 +1,16 @@
 <div id="content">
 					<div id="content-nav"><a href="<?php echo base_url(); ?>equipment">Оборудование</a>
-					<h2><span>></span>Комплексы уничтожения отходов "Киберниси"</h2></div>
+					<h2><span>></span>Очистные сооружения производственного стока РПИ-ПОС</h2></div>
 					<h1>Общая информация</h1>
 					
 					<a href="main"><div id="primeneniye-button">Описание</div></a>
 					<a href="plan"><div id="opisaniye-button">Чертеж</div></a>
 
-					<div id="opros-list-button"><a href="questionnaire.html"><img src="<?php echo base_url(); ?>images/d4.png" alt="">
+					<div id="opros-list-button"><a href="<?php echo base_url(); ?>ol/RPI-POS.docx"><img src="<?php echo base_url(); ?>images/d4.png" alt="">
 					<span>Заполнить опросный лист</span></a></div>
 					<div class="clear"></div>
 									
-					<center><img src="<?php echo base_url(); ?>images/products/cyberynsi-plan.png" /></center>
+					<center><img src="<?php echo base_url(); ?>images/products/rpi-pos-plan.png" /></center>
 
 				</div>
 				<div class="clear"></div>

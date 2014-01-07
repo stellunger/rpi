@@ -3,9 +3,9 @@
 					<h2><span>></span>Очистные сооружения хозяйственно-бытового стока РПИ-КОС</h2></div>
 					<h1>Технологические ступени очистных сооружений РПИ-КОС</h1>
 					
-					<a href="main"><div id="opisaniye-button">Описание</div></a>	
+					<!--<a href="main"><div id="opisaniye-button">Описание</div></a>	-->
 																								
-					<div id="opros-list-button"><a href="questionnaire.html"><img src="<?php echo base_url(); ?>images/d4.png" alt="">
+					<div id="opros-list-button"><a href="<?php echo base_url(); ?>ol/RPI-KOS.docx"><img src="<?php echo base_url(); ?>images/d4.png" alt="">
 					<span>Заполнить опросный лист</span></a></div>
 					<div class="clear"></div>
 

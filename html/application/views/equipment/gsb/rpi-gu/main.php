@@ -1,15 +1,17 @@
 <div id="content">
 					<div id="content-nav"><a href="<?php echo base_url(); ?>equipment">Оборудование</a>
 					<h2><span>></span>Жироуловители, септики, биореакторы</h2></div>
-					<h1>Жироуловители</h1>
+					<h1>Жироуловители РПИ-ЖУ</h1>
 					
 					<a href="main"><div id="opisaniye-button">Описание</div></a>
 					<a href="size"><div id="primeneniye-button">Размеры</div></a>
 					<a href="plan"><div id="primeneniye-button">Чертеж</div></a>
 														
-					<div id="opros-list-button"><a href="questionnaire.html"><img src="<?php echo base_url(); ?>images/d4.png" alt="">
-					<span>Заполнить опросный лист</span></a></div>
+					<!--<div id="opros-list-button"><a href="questionnaire.html"><img src="<?php echo base_url(); ?>images/d4.png" alt="">
+					<span>Заполнить опросный лист</span></a></div>-->
 					<div class="clear"></div>
+
+					<br>
 
 					<p>Жироуловитель предназначен для снижения содержания жиров
 					в сточных водах, отводимых в систему канализации. Устанавливается
@@ -40,6 +42,14 @@
 					Удаление осадка взвесей из жироуловителя осуществляется через
 					стояк для откачки осадка. Удаление жировой пленки производится
 					через ассенизационный колодец обслуживания.</p>
+
+					<div class="content-l">
+						<center><img src="http://rpi.local/images/products/rpi-gu-01.png" alt="Жироуловители РПИ-ЖУ"></center>
+					</div>
+
+					<div class="content-r">
+						<img src="http://rpi.local/images/products/rpi-gu-02.png" alt="Жироуловители РПИ-ЖУ">
+					</div>	
 
 					
 				</div>

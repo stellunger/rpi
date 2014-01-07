@@ -3,12 +3,13 @@
 					<h2><span>></span>Комплектные колодцы</h2></div>
 					<h1>Колодцы ультрафиолетового обеззараживания РПИ-КУ</h1>
 					
-					<a href="main"><div id="opisaniye-button">Описание</div></a>
-					<a href="plan"><div id="primeneniye-button">Чертеж</div></a>
-														
-					<div id="opros-list-button"><a href="questionnaire.html"><img src="<?php echo base_url(); ?>images/d4.png" alt="">
-					<span>Заполнить опросный лист</span></a></div>
+					<!--<a href="main"><div id="opisaniye-button">Описание</div></a>-->
+																			
+					<!--<div id="opros-list-button"><a href="questionnaire.html"><img src="<?php echo base_url(); ?>images/d4.png" alt="">
+					<span>Заполнить опросный лист</span></a></div>-->
 					<div class="clear"></div>
+
+					<br>
 
 					<p><b>Колодцы ультрафиолетового обеззараживания РПИ-КУ</b>
 					комлектуются оборудованием обеззараживания сточных вод перед

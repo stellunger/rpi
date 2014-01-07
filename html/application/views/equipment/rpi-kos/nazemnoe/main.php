@@ -6,7 +6,7 @@
 					<a href="main"><div id="opisaniye-button">Описание</div></a>	
 					<a href="size"><div id="primeneniye-button">Размеры</div></a>														
 																			
-					<div id="opros-list-button"><a href="questionnaire.html"><img src="<?php echo base_url(); ?>images/d4.png" alt="">
+					<div id="opros-list-button"><a href="<?php echo base_url(); ?>ol/RPI-KOS.docx"><img src="<?php echo base_url(); ?>images/d4.png" alt="">
 					<span>Заполнить опросный лист</span></a></div>
 					<div class="clear"></div>
 
@@ -19,6 +19,10 @@
 					и комплектация оборудованием непосредственно на объекте.
 					Возможно поэтапное наращивание производительности очистных
 					сооружений путем последовательного ввода блоков.</p>
+
+					<br>
+
+					<center><img src="<?php echo base_url(); ?>images/products/rpi-kos-03.png" /></center>
 
 										
 				</div>

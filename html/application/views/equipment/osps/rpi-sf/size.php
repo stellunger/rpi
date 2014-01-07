@@ -7,7 +7,7 @@
 					<a href="size"><div id="opisaniye-button">Размеры</div></a>
 					<a href="plan"><div id="primeneniye-button">Чертеж</div></a>
 
-					<div id="opros-list-button"><a href="questionnaire.html"><img src="<?php echo base_url(); ?>images/d4.png" alt="">
+					<div id="opros-list-button"><a href="<?php echo base_url(); ?>ol/RPI-OSPS.docx"><img src="<?php echo base_url(); ?>images/d4.png" alt="">
 					<span>Заполнить опросный лист</span></a></div>
 					<div class="clear"></div>
 									

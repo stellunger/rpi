@@ -1,14 +1,16 @@
 <div id="content">
-					<div id="content-nav"><a href="<?php echo base_url(); ?>">Оборудование</a>
-					<h2><span>></span>Комлпектные колодцы</h2></div>
+					<div id="content-nav"><a href="<?php echo base_url(); ?>equipment">Оборудование</a>
+					<h2><span>></span>Комплектные колодцы</h2></div>
 					<h1>Колодцы смотровые РПИ-КС</h1>
 					
 					<a href="main"><div id="opisaniye-button">Описание</div></a>
 					<a href="plan"><div id="primeneniye-button">Чертеж</div></a>
 									
-					<div id="opros-list-button"><a href="questionnaire.html"><img src="<?php echo base_url(); ?>images/d4.png" alt="">
-					<span>Заполнить опросный лист</span></a></div>
+					<!--<div id="opros-list-button"><a href="#"><img src="<?php echo base_url(); ?>images/d4.png" alt="">
+					<span>Заполнить опросный лист</span></a></div>-->
 					<div class="clear"></div>
+
+					<br />
 
 					<p><b>Смотровые колодцы РПИ-КС</b> предназначены для наблюдения
 					за канализационными сетями, выполнения прочисток и тд.
@@ -24,7 +26,15 @@
 					<p>Колодцы представляют собой емкости заглубленного исполнения,
 					оснащенные люками и лестницами для обеспечения доступа, 
 					подводящими/отводящими патрубками, регулирующей и запорной
-					арматурой, различным технологическим оборудованием.</p>					
+					арматурой, различным технологическим оборудованием.</p>		
+
+					<div class="content-l">
+						<center><img src="<?php echo base_url(); ?>images/products/rpi-ks-01.png" alt="Колодцы смотровые РПИ-КС"></center>
+					</div>
+
+					<div class="content-r">
+						<img src="<?php echo base_url(); ?>images/products/rpi-ks-02.png" alt="Колодцы смотровые РПИ-КС">
+					</div>			
 					
 				</div>
 				<div class="clear"></div>

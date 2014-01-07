@@ -103,67 +103,122 @@
 		$(function (){ 
 			$('#clb1 h1').click(function(){
 				$('#clb1 ul').slideDown(500);
-				$('#clb2 ul, #clb3 ul, #clb4 ul, #clb5 ul, #clb6 ul').slideUp(500);
+				$('#clb2 ul, #clb3 ul, #clb4 ul, #clb5 ul, #clb6 ul, #clb7 ul, #clb8 ul, #clb9 ul, #clb10 ul, #clb11 ul').slideUp(500);
 				$('#clb1').removeClass("content-left-bar");
 				$('#clb1').addClass("activate");
-				$('#clb2, #clb3, #clb4, #clb5, #clb6').removeClass("activate");
-				$('#clb2, #clb3, #clb4, #clb5, #clb6').addClass("content-left-bar");
+				$('#clb2, #clb3, #clb4, #clb5, #clb6, #clb7, #clb8, #clb9, #clb10, #clb11').removeClass("activate");
+				$('#clb2, #clb3, #clb4, #clb5, #clb6, #clb7, #clb8, #clb9, #clb10, #clb11').addClass("content-left-bar");
 			});			
 		});	
 
 		$(function (){ 
 			$('#clb2 h1').click(function(){
 				$('#clb2 ul').slideDown(500);
-				$('#clb1 ul, #clb3 ul, #clb4 ul, #clb5 ul, #clb6 ul').slideUp(500);
+				$('#clb1 ul, #clb3 ul, #clb4 ul, #clb5 ul, #clb6 ul, #clb7 ul, #clb8 ul, #clb9 ul, #clb10 ul, #clb11 ul').slideUp(500);
 				$('#clb2').removeClass("content-left-bar");
 				$('#clb2').addClass("activate");
-				$('#clb1, #clb3, #clb4, #clb5, #clb6').removeClass("activate");
-				$('#clb1, #clb3, #clb4, #clb5, #clb6').addClass("content-left-bar");
+				$('#clb1, #clb3, #clb4, #clb5, #clb6, #clb7, #clb8, #clb9, #clb10, #clb11').removeClass("activate");
+				$('#clb1, #clb3, #clb4, #clb5, #clb6, #clb7, #clb8, #clb9, #clb10, #clb11').addClass("content-left-bar");
 			});			
-		});	
-		
+		});
+
 		$(function (){ 
 			$('#clb3 h1').click(function(){
 				$('#clb3 ul').slideDown(500);
-				$('#clb2 ul, #clb1 ul, #clb4 ul, #clb5 ul, #clb6 ul').slideUp(500);
+				$('#clb1 ul, #clb2 ul, #clb4 ul, #clb5 ul, #clb6 ul, #clb7 ul, #clb8 ul, #clb9 ul, #clb10 ul, #clb11 ul').slideUp(500);
 				$('#clb3').removeClass("content-left-bar");
 				$('#clb3').addClass("activate");
-				$('#clb2, #clb1, #clb4, #clb5, #clb6').removeClass("activate");
-				$('#clb2, #clb1, #clb4, #clb5, #clb6').addClass("content-left-bar");
+				$('#clb1, #clb2, #clb4, #clb5, #clb6, #clb7, #clb8, #clb9, #clb10, #clb11').removeClass("activate");
+				$('#clb1, #clb2, #clb4, #clb5, #clb6, #clb7, #clb8, #clb9, #clb10, #clb11').addClass("content-left-bar");
 			});			
-		});	
+		});
 
 		$(function (){ 
 			$('#clb4 h1').click(function(){
 				$('#clb4 ul').slideDown(500);
-				$('#clb2 ul, #clb3 ul, #clb1 ul, #clb5 ul, #clb6 ul').slideUp(500);
+				$('#clb1 ul, #clb2 ul, #clb3 ul, #clb5 ul, #clb6 ul, #clb7 ul, #clb8 ul, #clb9 ul, #clb10 ul, #clb11 ul').slideUp(500);
 				$('#clb4').removeClass("content-left-bar");
 				$('#clb4').addClass("activate");
-				$('#clb2, #clb3, #clb1, #clb5, #clb6').removeClass("activate");
-				$('#clb2, #clb3, #clb1, #clb5, #clb6').addClass("content-left-bar");
+				$('#clb1, #clb2, #clb3, #clb5, #clb6, #clb7, #clb8, #clb9, #clb10, #clb11').removeClass("activate");
+				$('#clb1, #clb2, #clb3, #clb5, #clb6, #clb7, #clb8, #clb9, #clb10, #clb11').addClass("content-left-bar");
 			});			
-		});	
+		});
 
 		$(function (){ 
 			$('#clb5 h1').click(function(){
 				$('#clb5 ul').slideDown(500);
-				$('#clb2 ul, #clb3 ul, #clb4 ul, #clb1 ul, #clb6 ul').slideUp(500);
+				$('#clb1 ul, #clb2 ul, #clb3 ul, #clb4 ul, #clb6 ul, #clb7 ul, #clb8 ul, #clb9 ul, #clb10 ul, #clb11 ul').slideUp(500);
 				$('#clb5').removeClass("content-left-bar");
 				$('#clb5').addClass("activate");
-				$('#clb2, #clb3, #clb4, #clb1, #clb6').removeClass("activate");
-				$('#clb2, #clb3, #clb4, #clb1, #clb6').addClass("content-left-bar");
+				$('#clb1, #clb2, #clb3, #clb4, #clb6, #clb7, #clb8, #clb9, #clb10, #clb11').removeClass("activate");
+				$('#clb1, #clb2, #clb3, #clb4, #clb6, #clb7, #clb8, #clb9, #clb10, #clb11').addClass("content-left-bar");
 			});			
-		});	
+		});
 
 		$(function (){ 
 			$('#clb6 h1').click(function(){
 				$('#clb6 ul').slideDown(500);
-				$('#clb2 ul, #clb3 ul, #clb4 ul, #clb5 ul, #clb1 ul').slideUp(500);
+				$('#clb1 ul, #clb2 ul, #clb3 ul, #clb4 ul, #clb5 ul, #clb7 ul, #clb8 ul, #clb9 ul, #clb10 ul, #clb11 ul').slideUp(500);
 				$('#clb6').removeClass("content-left-bar");
 				$('#clb6').addClass("activate");
-				$('#clb2, #clb3, #clb4, #clb5, #clb1').removeClass("activate");
-				$('#clb2, #clb3, #clb4, #clb5, #clb1').addClass("content-left-bar");
+				$('#clb1, #clb2, #clb3, #clb4, #clb5, #clb7, #clb8, #clb9, #clb10, #clb11').removeClass("activate");
+				$('#clb1, #clb2, #clb3, #clb4, #clb5, #clb7, #clb8, #clb9, #clb10, #clb11').addClass("content-left-bar");
 			});			
-		});	
+		});
+
+		$(function (){ 
+			$('#clb7 h1').click(function(){
+				$('#clb7 ul').slideDown(500);
+				$('#clb1 ul, #clb2 ul, #clb3 ul, #clb4 ul, #clb5 ul, #clb6 ul, #clb8 ul, #clb9 ul, #clb10 ul, #clb11 ul').slideUp(500);
+				$('#clb7').removeClass("content-left-bar");
+				$('#clb7').addClass("activate");
+				$('#clb1, #clb2, #clb3, #clb4, #clb5, #clb6, #clb8, #clb9, #clb10, #clb11').removeClass("activate");
+				$('#clb1, #clb2, #clb3, #clb4, #clb5, #clb6, #clb8, #clb9, #clb10, #clb11').addClass("content-left-bar");
+			});			
+		});
+
+		$(function (){ 
+			$('#clb8 h1').click(function(){
+				$('#clb8 ul').slideDown(500);
+				$('#clb1 ul, #clb2 ul, #clb3 ul, #clb4 ul, #clb5 ul, #clb6 ul, #clb7 ul, #clb9 ul, #clb10 ul, #clb11 ul').slideUp(500);
+				$('#clb8').removeClass("content-left-bar");
+				$('#clb8').addClass("activate");
+				$('#clb1, #clb2, #clb3, #clb4, #clb5, #clb6, #clb7, #clb9, #clb10, #clb11').removeClass("activate");
+				$('#clb1, #clb2, #clb3, #clb4, #clb5, #clb6, #clb7, #clb9, #clb10, #clb11').addClass("content-left-bar");
+			});			
+		});
+
+		$(function (){ 
+			$('#clb9 h1').click(function(){
+				$('#clb9 ul').slideDown(500);
+				$('#clb1 ul, #clb2 ul, #clb3 ul, #clb4 ul, #clb5 ul, #clb6 ul, #clb7 ul, #clb8 ul, #clb10 ul, #clb11 ul').slideUp(500);
+				$('#clb9').removeClass("content-left-bar");
+				$('#clb9').addClass("activate");
+				$('#clb1, #clb2, #clb3, #clb4, #clb5, #clb6, #clb7, #clb8, #clb10, #clb11').removeClass("activate");
+				$('#clb1, #clb2, #clb3, #clb4, #clb5, #clb6, #clb7, #clb8, #clb10, #clb11').addClass("content-left-bar");
+			});			
+		});
+
+		$(function (){ 
+			$('#clb10 h1').click(function(){
+				$('#clb10 ul').slideDown(500);
+				$('#clb1 ul, #clb2 ul, #clb3 ul, #clb4 ul, #clb5 ul, #clb6 ul, #clb7 ul, #clb8 ul, #clb9 ul, #clb11 ul').slideUp(500);
+				$('#clb10').removeClass("content-left-bar");
+				$('#clb10').addClass("activate");
+				$('#clb1, #clb2, #clb3, #clb4, #clb5, #clb6, #clb7, #clb8, #clb9, #clb11').removeClass("activate");
+				$('#clb1, #clb2, #clb3, #clb4, #clb5, #clb6, #clb7, #clb8, #clb9, #clb11').addClass("content-left-bar");
+			});			
+		});
+
+		$(function (){ 
+			$('#clb11 h1').click(function(){
+				$('#clb11 ul').slideDown(500);
+				$('#clb1 ul, #clb2 ul, #clb3 ul, #clb4 ul, #clb5 ul, #clb6 ul, #clb7 ul, #clb8 ul, #clb9 ul, #clb10 ul').slideUp(500);
+				$('#clb11').removeClass("content-left-bar");
+				$('#clb11').addClass("activate");
+				$('#clb1, #clb2, #clb3, #clb4, #clb5, #clb6, #clb7, #clb8, #clb9, #clb10').removeClass("activate");
+				$('#clb1, #clb2, #clb3, #clb4, #clb5, #clb6, #clb7, #clb8, #clb9, #clb10').addClass("content-left-bar");
+			});			
+		});
 		
 /* */

@@ -7,11 +7,14 @@
 					<a href="size"><div id="primeneniye-button">Размеры</div></a>
 					<a href="plan"><div id="opisaniye-button">Чертеж</div></a>
 
-					<div id="opros-list-button"><a href="questionnaire.html"><img src="<?php echo base_url(); ?>images/d4.png" alt="">
-					<span>Заполнить опросный лист</span></a></div>
+					<!--<div id="opros-list-button"><a href="questionnaire.html"><img src="<?php echo base_url(); ?>images/d4.png" alt="">
+					<span>Заполнить опросный лист</span></a></div>-->
 					<div class="clear"></div>
+
+					<br>
 									
 					<center><img src="<?php echo base_url(); ?>images/products/rpi-aqua-plan.png" /></center>
+					<center><img src="<?php echo base_url(); ?>images/products/rpi-aqua-02.png" /></center>
 					
 				</div>
 				<div class="clear"></div>

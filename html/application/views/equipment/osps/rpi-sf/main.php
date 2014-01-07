@@ -7,7 +7,7 @@
 					<a href="size"><div id="primeneniye-button">Размеры</div></a>
 					<a href="plan"><div id="primeneniye-button">Чертеж</div></a>
 														
-					<div id="opros-list-button"><a href="questionnaire.html"><img src="<?php echo base_url(); ?>images/d4.png" alt="">
+					<div id="opros-list-button"><a href="<?php echo base_url(); ?>ol/RPI-OSPS.docx"><img src="<?php echo base_url(); ?>images/d4.png" alt="">
 					<span>Заполнить опросный лист</span></a></div>
 					<div class="clear"></div>
 
@@ -35,7 +35,11 @@
 
 					<p>Возможно исполнение сорбционного фильтра с дополнительной
 					установкой ультрафиолетового облучения, для обеззараживания
-					сточных вод перед сбросом - РПИ-РФ(у).</p>
+					сточных вод перед сбросом - РПИ-СФ(у).</p>
+
+					<br>
+
+					<center><img src="<?php echo base_url(); ?>images/products/rpi-sf-01.png" /></center>
 					
 				</div>
 				<div class="clear"></div>

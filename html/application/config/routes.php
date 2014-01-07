@@ -40,6 +40,7 @@
 
 $route['(:any)/(:any)/(:any)/(:any)'] = 'pages/show_tab/$1/$2/$3/$4';
 $route['(:any)/(:any)/(:any)'] = 'pages/show_page/$1/$2/$3';
+$route['contacts'] = 'pages/show_contacts';
 $route['(:any)'] = 'pages/show_main/$1';
 
 $route['default_controller'] = 'pages';

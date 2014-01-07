@@ -12,7 +12,7 @@
 	<script type="text/javascript" src="<?php echo base_url(); ?>js/jquery.validate.js"></script>
 	<link rel="stylesheet" media="screen" href="http://openfontlibrary.org/face/sansus-webissimo" rel="stylesheet" type="text/css"/>
 	<!-- title -->
-	<title>ООО "РосПромИнжиниринг"</title>
+	<title>Инжиниринговый кластер инфраструктурных решений | РосПромИнжиниринг</title>
 </head>
 <body>
 
@@ -28,7 +28,7 @@
 					<li><a href="<?php echo base_url(); ?>equipment">Оборудование</a></li>
 					<li><a href="<?php echo base_url(); ?>montage">Монтаж</a></li>
 					<li><a href="<?php echo base_url(); ?>service">Сервис</a></li>
-					<li><a href="<?php echo base_url(); ?>technologies">Технологии</a></li>
+					<!--<li><a href="<?php echo base_url(); ?>technologies">Технологии</a></li>-->
 					<li><a href="<?php echo base_url(); ?>production">Производство</a></li>
 					<li><a href="<?php echo base_url(); ?>contacts">Контакты</a></li>
 				</ul>

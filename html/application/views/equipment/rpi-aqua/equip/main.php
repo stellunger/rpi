@@ -3,11 +3,13 @@
 					<h2><span>></span>Комплектные станции водоподготовки РПИ-АКВА</h2></div>
 					<h1>Водоочистное оборудование</h1>
 					
-					<a href="main"><div id="opisaniye-button">Описание</div></a>
+					<!--<a href="main"><div id="opisaniye-button">Описание</div></a>-->
 																																							
-					<div id="opros-list-button"><a href="questionnaire.html"><img src="<?php echo base_url(); ?>images/d4.png" alt="">
-					<span>Заполнить опросный лист</span></a></div>
+					<!--<div id="opros-list-button"><a href="questionnaire.html"><img src="<?php echo base_url(); ?>images/d4.png" alt="">
+					<span>Заполнить опросный лист</span></a></div>-->
 					<div class="clear"></div>
+
+					<br>
 
 					<p><b>Технологическое водоочистное оборудование, применяемое в станциях РПИ-АКВА</b></p>
 
@@ -25,6 +27,10 @@
 					<p><b>Комплексы реагентной обработки.</b></p>
 
 					<p><b>Установки УФ-обеззараживания.</b></p>
+
+					<br>
+
+					<center><img src="<?php echo base_url(); ?>images/products/rpi-aqua-03.png" /></center>
 										
 				</div>
 				<div class="clear"></div>

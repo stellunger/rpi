@@ -12,7 +12,7 @@
 	<script type="text/javascript" src="<?php echo base_url(); ?>js/jquery.validate.js"></script>
 	<link rel="stylesheet" media="screen" href="http://openfontlibrary.org/face/sansus-webissimo" rel="stylesheet" type="text/css"/>
 	<!-- title -->
-	<title>ООО "РосПромИнжиниринг"</title>
+	<title><?php echo $title; ?></title>
 </head>
 <body>
 

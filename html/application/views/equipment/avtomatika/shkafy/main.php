@@ -3,11 +3,13 @@
 					<h2><span>></span>Автоматика</h2></div>
 					<h1>Шкафы управления и автоматизации</h1>
 					
-					<a href="main"><div id="opisaniye-button">Описание</div></a>	
+					<!--<a href="main"><div id="opisaniye-button">Описание</div></a>-->
 																																		
-					<div id="opros-list-button"><a href="questionnaire.html"><img src="<?php echo base_url(); ?>images/d4.png" alt="">
-					<span>Заполнить опросный лист</span></a></div>
+					<!--<div id="opros-list-button"><a href="questionnaire.html"><img src="<?php echo base_url(); ?>images/d4.png" alt="">
+					<span>Заполнить опросный лист</span></a></div>-->
 					<div class="clear"></div>
+
+					<br>
 
 					<p>Шкафы управления и автоматизации - это комплексы из
 					множества управляющих устройств, в основе которых находятся

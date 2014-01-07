@@ -6,9 +6,11 @@
 					<a href="main"><div id="opisaniye-button">Описание</div></a>					
 					<a href="size"><div id="primeneniye-button">Размеры</div></a>
 														
-					<div id="opros-list-button"><a href="questionnaire.html"><img src="<?php echo base_url(); ?>images/d4.png" alt="">
-					<span>Заполнить опросный лист</span></a></div>
+					<!--<div id="opros-list-button"><a href="questionnaire.html"><img src="<?php echo base_url(); ?>images/d4.png" alt="">
+					<span>Заполнить опросный лист</span></a></div>-->
 					<div class="clear"></div>
+
+					<br>
 
 					<p>Септик является автономной системой канализования
 					небольшой производительности, осуществляющей очистку
@@ -26,6 +28,14 @@
 					<p>После прохождения сточных вод через септик от воды отделаются
 					взвесь и осадок, а очищенные сточные воды отводятся на
 					фильтрационную площадку или фильтрационный колодец.</p>
+
+					<div class="content-l">
+						<center><img src="http://rpi.local/images/products/rpi-sp-01.png" alt="Септики РПИ-СП"></center>
+					</div>
+
+					<div class="content-r">
+						<img src="http://rpi.local/images/products/rpi-sp-02.png" alt="Септики РПИ-СП">
+					</div>
 
 					
 				</div>

@@ -3,9 +3,9 @@
 					<h2><span>></span>Очистные сооружения хозяйственно-бытового стока РПИ-КОС</h2></div>
 					<h1>Общая информация</h1>
 					
-					<a href="main"><div id="opisaniye-button">Описание</div></a>															
+					<!--<a href="main"><div id="opisaniye-button">Описание</div></a>															-->
 																			
-					<div id="opros-list-button"><a href="questionnaire.html"><img src="<?php echo base_url(); ?>images/d4.png" alt="">
+					<div id="opros-list-button"><a href="<?php echo base_url(); ?>ol/RPI-KOS.docx"><img src="<?php echo base_url(); ?>images/d4.png" alt="">
 					<span>Заполнить опросный лист</span></a></div>
 					<div class="clear"></div>
 
@@ -34,6 +34,9 @@
 					от 30 м3/сутки до 5 000 м3/сутки, по индивидуальным проектам
 					может достигать 50 000 м3/сутки и выше.</p>
 
+					<br>
+
+					<center><img src="<?php echo base_url(); ?>images/products/rpi-kos-01.png" /></center>
 					
 				</div>
 				<div class="clear"></div>

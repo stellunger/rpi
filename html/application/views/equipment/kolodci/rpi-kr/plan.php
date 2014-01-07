@@ -6,9 +6,11 @@
 					<a href="main"><div id="primeneniye-button">Описание</div></a>
 					<a href="plan"><div id="opisaniye-button">Чертеж</div></a>
 
-					<div id="opros-list-button"><a href="questionnaire.html"><img src="<?php echo base_url(); ?>images/d4.png" alt="">
-					<span>Заполнить опросный лист</span></a></div>
+					<!--<div id="opros-list-button"><a href="questionnaire.html"><img src="<?php echo base_url(); ?>images/d4.png" alt="">
+					<span>Заполнить опросный лист</span></a></div>-->
 					<div class="clear"></div>
+
+					<br>
 									
 					<center><img src="<?php echo base_url(); ?>images/products/kolodci-razdeliteli-potoka-plan.jpg" /></center>
 				</div>

@@ -7,9 +7,11 @@
 					<a href="size"><div id="primeneniye-button">Размеры</div></a>
 					<a href="plan"><div id="primeneniye-button">Чертеж</div></a>
 																																		
-					<div id="opros-list-button"><a href="questionnaire.html"><img src="<?php echo base_url(); ?>images/d4.png" alt="">
-					<span>Заполнить опросный лист</span></a></div>
+					<!--<div id="opros-list-button"><a href="questionnaire.html"><img src="<?php echo base_url(); ?>images/d4.png" alt="">
+					<span>Заполнить опросный лист</span></a></div>-->
 					<div class="clear"></div>
+
+					<br>
 
 					<p>Комплектные станции водоподготовки предназначены для
 					очистки воды различного происхождения и для различных целей
