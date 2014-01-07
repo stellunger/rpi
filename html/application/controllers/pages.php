@@ -23,7 +23,7 @@ class Pages extends CI_Controller {
 	public function show_page($main_id, $category_id, $page_id)
 	{
 		
-		switch ($category_id)
+		switch ($main_id)
 		{
 			
 			case 'montage':
@@ -32,6 +32,10 @@ class Pages extends CI_Controller {
 
 			case 'service':
 				$data['title'] = 'Сервис';
+				break;
+
+			case 'projects':
+				$data['title'] = 'Проектирование';
 				break;
 
 		}
@@ -260,6 +264,14 @@ class Pages extends CI_Controller {
 
 			case 'production':
 				$data['title'] = 'Производство';
+				break;
+
+			case 'montage':
+				$data['title'] = 'Монтаж';
+				break;
+
+			case 'services':
+				$data['title'] = 'Сервис';
 				break;
 		}
 
