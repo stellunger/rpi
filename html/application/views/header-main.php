@@ -26,8 +26,8 @@
 					<li><a href="<?php echo base_url(); ?>">Главная</a></li>
 					<li><a href="<?php echo base_url(); ?>projects">Проектирование</a></li>
 					<li><a href="<?php echo base_url(); ?>equipment">Оборудование</a></li>
-					<li><a href="<?php echo base_url(); ?>montage">Монтаж</a></li>
-					<li><a href="<?php echo base_url(); ?>service">Сервис</a></li>
+					<li><a href="<?php echo base_url(); ?>montage/montage/base">Монтаж</a></li>
+					<li><a href="<?php echo base_url(); ?>service/service/base">Сервис</a></li>
 					<!--<li><a href="<?php echo base_url(); ?>technologies">Технологии</a></li>-->
 					<li><a href="<?php echo base_url(); ?>production">Производство</a></li>
 					<li><a href="<?php echo base_url(); ?>contacts">Контакты</a></li>

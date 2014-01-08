@@ -35,11 +35,12 @@
 				<div class="box3">
 					<h1>Екатеринбург</h1>
 					<h2><a href="mailto:info@sk-rosprom.ru">info@sk-rosprom.ru</a><br>+7 (343) 374-59-20</h2>
-					<h3>г. Екатеринбург,<br>ул. Малышева 51 офис 8-10</h3>
+					<h3>г. Екатеринбург,<br>ул. Малышева 51, офис 8-10</h3>
 				</div>
 				<div class="box3">
-					<!--<h1>Тюмень</h1>
-					<h2><a href="mailto:info@sk-rosprom.ru">info@sk-rosprom.ru</a><br>+79122877222</h2>	-->
+					<h1>Тюмень</h1>
+					<h2><a href="mailto:pogrebak@sk-rosprom.ru">pogrebak@sk-rosprom.ru</a><br>+7 932 480-12-13</h2>
+					<h3>г. Тюмень,<br>ул. Герцена 53, офис 218</h3>
 				</div>
 				<div class="box3">
 					<!--<h1>Москва</h1>
@@ -47,7 +48,7 @@
 					<h3>г. Екатеринбург,<br>ул. Малышева 51 офис 8-10</h3>-->
 				</div>
 				<div class="box3">
-					<h4>ООО "РосПромИнжиниринг"</h4>
+					<h4>ГК "РосПромИнжиниринг"</h4>
 					<!--<h5>Создание сайта: <a href="#">Radigital</a></h5>-->
 				</div>
 				<div class="clear"></div>
