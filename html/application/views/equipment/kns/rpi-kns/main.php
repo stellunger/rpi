@@ -57,11 +57,11 @@
 					6. Шкаф управления.</p>
 
 					<div class="content-l">
-						<center><img src="http://rpi.local/images/products/rpi-kns-01.png" alt="Канализационные насосные станции РПИ-КНС"></center>
+						<center><img src="<?php echo base_url(); ?>images/products/rpi-kns-01.png" alt="Канализационные насосные станции РПИ-КНС"></center>
 					</div>
 
 					<div class="content-r">
-						<img src="http://rpi.local/images/products/rpi-kns-02.png" alt="Канализационные насосные станции РПИ-КНС">
+						<img src="<?php echo base_url(); ?>images/products/rpi-kns-02.png" alt="Канализационные насосные станции РПИ-КНС">
 					</div>
 					
 				</div>

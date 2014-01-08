@@ -44,11 +44,11 @@
 					через ассенизационный колодец обслуживания.</p>
 
 					<div class="content-l">
-						<center><img src="http://rpi.local/images/products/rpi-gu-01.png" alt="Жироуловители РПИ-ЖУ"></center>
+						<center><img src="<?php echo base_url(); ?>images/products/rpi-gu-01.png" alt="Жироуловители РПИ-ЖУ"></center>
 					</div>
 
 					<div class="content-r">
-						<img src="http://rpi.local/images/products/rpi-gu-02.png" alt="Жироуловители РПИ-ЖУ">
+						<img src="<?php echo base_url(); ?>images/products/rpi-gu-02.png" alt="Жироуловители РПИ-ЖУ">
 					</div>	
 
 					

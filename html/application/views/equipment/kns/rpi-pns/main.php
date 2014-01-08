@@ -42,11 +42,11 @@
 					6. Шкаф управления.</p>
 
 					<div class="content-l">
-						<center><img src="http://rpi.local/images/products/rpi-pns-01.png" alt="Повысительные насосные станции РПИ-ПНС"></center>
+						<center><img src="<?php echo base_url(); ?>images/products/rpi-pns-01.png" alt="Повысительные насосные станции РПИ-ПНС"></center>
 					</div>
 
 					<div class="content-r">
-						<img src="http://rpi.local/images/products/rpi-pns-02.png" alt="Повысительные насосные станции РПИ-ПНС">
+						<img src="<?php echo base_url(); ?>images/products/rpi-pns-02.png" alt="Повысительные насосные станции РПИ-ПНС">
 					</div>
 					
 				</div>

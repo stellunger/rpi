@@ -30,11 +30,11 @@
 					фильтрационную площадку или фильтрационный колодец.</p>
 
 					<div class="content-l">
-						<center><img src="http://rpi.local/images/products/rpi-sp-01.png" alt="Септики РПИ-СП"></center>
+						<center><img src="<?php echo base_url(); ?>images/products/rpi-sp-01.png" alt="Септики РПИ-СП"></center>
 					</div>
 
 					<div class="content-r">
-						<img src="http://rpi.local/images/products/rpi-sp-02.png" alt="Септики РПИ-СП">
+						<img src="<?php echo base_url(); ?>images/products/rpi-sp-02.png" alt="Септики РПИ-СП">
 					</div>
 
 					
