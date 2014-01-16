@@ -39,7 +39,7 @@
 				</div>
 				<div class="box3">
 					<h1>Тюмень</h1>
-					<h2><a href="mailto:pogrebak@sk-rosprom.ru">pogrebak@sk-rosprom.ru</a><br>+7 932 480-12-13</h2>
+					<h2><a href="mailto:info-nord@sk-rosprom.ru">info-nord@sk-rosprom.ru</a><br>+7 (3452) 21-56-86</h2>
 					<h3>г. Тюмень,<br>ул. Герцена 53, офис 218</h3>
 				</div>
 				<div class="box3">

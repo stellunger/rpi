@@ -13,7 +13,7 @@
 		<div id="planning">
 			<div id="planning-box">
 				<div class="planning-box">
-					<img src="<?php echo base_url(); ?>images/ffs/kolodci.png" alt="Комплектные колодцы">
+					<img src="<?php echo base_url(); ?>images/ffs/testing.png" alt="Комплектные колодцы">
 					<h1>Комплектные колодцы</h1>
 					<a href="<?php echo base_url(); ?>equipment/kolodci/rpi-ks/main">Колодцы смотровые</a><br>							
 					<a href="<?php echo base_url(); ?>equipment/kolodci/rpi-ka/main">Регулировки запорной арматуры</a><br>					
