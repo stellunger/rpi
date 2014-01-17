@@ -20,7 +20,7 @@
 							<h3>г. Екатеринбург,<br>ул. Малышева 51, офис 8-10</h3>
 						</div>						
 						<div id="map-2-text">
-							<h2><a href="mailto:pogrebak@sk-rosprom.ru">pogrebak@sk-rosprom.ru</a><br>+7 932 480-12-13</h2>
+							<h2><a href="mailto:info-nord@sk-rosprom.ru">info-nord@sk-rosprom.ru</a><br>+7 (3452) 21-56-86</h2>
 							<h3>г. Тюмень,<br>ул. Герцена 53, офис 218</h3>
 						</div>						
 						<div class="clear"></div>

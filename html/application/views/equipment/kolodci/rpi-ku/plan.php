@@ -12,7 +12,7 @@
 
 					<br>
 									
-					<center><img src="<?php echo base_url(); ?>images/products/kolodci-ultrafioletovogo-obezzaragivaniya-plan.jpg" /></center>
+					<center><img src="<?php echo base_url(); ?>images/products/rpi-ku-plan.png" /></center>
 				</div>
 				<div class="clear"></div>
 			</div>

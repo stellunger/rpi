@@ -10,7 +10,7 @@
 					<span>Заполнить опросный лист</span></a></div>
 					<div class="clear"></div>
 									
-					<center><img src="<?php echo base_url(); ?>images/products/oshbs-zaglublennoe-plan.png" /></center>
+					<center><img src="<?php echo base_url(); ?>images/products/rpi-kos-z-plan.png" /></center>
 
 				</div>
 				<div class="clear"></div>

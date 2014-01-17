@@ -9,7 +9,7 @@
 					<!--<div id="opros-list-button"><a href="#"><img src="<?php echo base_url(); ?>images/d4.png" alt="">
 					<span>Заполнить опросный лист</span></a></div>-->
 					<div class="clear"></div>
-
+					
 					<br />
 
 					<p><b>Смотровые колодцы РПИ-КС</b> предназначены для наблюдения
@@ -26,17 +26,10 @@
 					<p>Колодцы представляют собой емкости заглубленного исполнения,
 					оснащенные люками и лестницами для обеспечения доступа, 
 					подводящими/отводящими патрубками, регулирующей и запорной
-					арматурой, различным технологическим оборудованием.</p>		
-
-					<div class="content-l">
-						<center><img src="<?php echo base_url(); ?>images/products/rpi-ks-01.png" alt="Колодцы смотровые РПИ-КС"></center>
-					</div>
-
-					<div class="content-r">
-						<img src="<?php echo base_url(); ?>images/products/rpi-ks-02.png" alt="Колодцы смотровые РПИ-КС">
-					</div>			
+					арматурой, различным технологическим оборудованием.</p>								
 					
 				</div>
 				<div class="clear"></div>
+
 			</div>
 		</div>			

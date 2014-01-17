@@ -53,6 +53,9 @@
 					Для хранения агрессивных сред применяются емкости из химически
 					и коррозионно стойких материалов.</p>
 
+					<br>
+
+					<center><img src="http://rpi.local/images/products/emkostnoe-01.png" /></center>
 					
 				</div>
 				<div class="clear"></div>

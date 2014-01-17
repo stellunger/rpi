@@ -5,6 +5,7 @@
 					
 					<a href="main"><div id="primeneniye-button">Описание</div></a>
 					<a href="size"><div id="opisaniye-button">Размеры</div></a>
+					<a href="plan"><div id="primeneniye-button">Чертеж</div></a>
 
 					<div id="opros-list-button"><a href="<?php echo base_url(); ?>ol/RPI-KOS.docx"><img src="<?php echo base_url(); ?>images/d4.png" alt="">
 					<span>Заполнить опросный лист</span></a></div>

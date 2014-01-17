@@ -36,7 +36,7 @@
 
 					<br>
 
-					<center><img src="<?php echo base_url(); ?>images/products/rpi-kos-01.png" /></center>
+					<center><img src="<?php echo base_url(); ?>images/products/hb-01.png" /></center>
 					
 				</div>
 				<div class="clear"></div>

@@ -20,7 +20,7 @@
 
 					<br>
 
-					<center><img src="<?php echo base_url(); ?>images/products/rpi-kos-02.png" /></center>
+					<!--<center><img src="<?php echo base_url(); ?>images/products/rpi-kos-02.png" /></center>-->
 
 					
 				</div>

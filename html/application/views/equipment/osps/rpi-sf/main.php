@@ -37,10 +37,7 @@
 					установкой ультрафиолетового облучения, для обеззараживания
 					сточных вод перед сбросом - РПИ-СФ(у).</p>
 
-					<br>
-
-					<center><img src="<?php echo base_url(); ?>images/products/rpi-sf-01.png" /></center>
-					
+										
 				</div>
 				<div class="clear"></div>
 			</div>

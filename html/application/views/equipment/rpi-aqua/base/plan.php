@@ -14,8 +14,7 @@
 					<br>
 									
 					<center><img src="<?php echo base_url(); ?>images/products/rpi-aqua-plan.png" /></center>
-					<center><img src="<?php echo base_url(); ?>images/products/rpi-aqua-02.png" /></center>
-					
+										
 				</div>
 				<div class="clear"></div>
 			</div>

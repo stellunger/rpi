@@ -4,10 +4,12 @@
 					<h1>Септики РПИ-СП</h1>
 					
 					<a href="main"><div id="opisaniye-button">Описание</div></a>					
-					<a href="size"><div id="primeneniye-button">Размеры</div></a>
+					<!--<a href="size"><div id="primeneniye-button">Размеры</div></a>-->
+					<a href="plan"><div id="primeneniye-button">Чертеж</div></a>
 														
 					<!--<div id="opros-list-button"><a href="questionnaire.html"><img src="<?php echo base_url(); ?>images/d4.png" alt="">
 					<span>Заполнить опросный лист</span></a></div>-->
+
 					<div class="clear"></div>
 
 					<br>
@@ -33,11 +35,7 @@
 						<center><img src="<?php echo base_url(); ?>images/products/rpi-sp-01.png" alt="Септики РПИ-СП"></center>
 					</div>
 
-					<div class="content-r">
-						<img src="<?php echo base_url(); ?>images/products/rpi-sp-02.png" alt="Септики РПИ-СП">
-					</div>
-
-					
+										
 				</div>
 				<div class="clear"></div>
 			</div>
