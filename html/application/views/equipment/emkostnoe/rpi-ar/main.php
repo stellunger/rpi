@@ -55,7 +55,7 @@
 
 					<br>
 
-					<center><img src="http://rpi.local/images/products/emkostnoe-01.png" /></center>
+					<center><img src="<?php echo base_url(); ?>images/products/emkostnoe-01.png" /></center>
 					
 				</div>
 				<div class="clear"></div>
