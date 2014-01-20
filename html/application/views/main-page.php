@@ -24,6 +24,6 @@
 					<img src="images/4.png" alt="">
 				</div>
 			</div>
-			<!--<h2>География поставок</h2>		
-			<div id="geography-img"><img src="images/geography.png" alt=""></div>-->
+			
+			<div id="geography-img"><img src="<?php echo base_url(); ?>images/geography.png" alt=""></div>
 		</div>		
