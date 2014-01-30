@@ -38,6 +38,10 @@ class Pages extends CI_Controller {
 				$data['title'] = 'Проектирование';
 				break;
 
+			case 'technologies':
+				$data['title'] = 'Технологии';
+				break;
+
 		}
 
 		$data['title'] .= ' | РосПромИнжиниринг';
