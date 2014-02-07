@@ -45,6 +45,8 @@
 				$('#mt2, #mt3').addClass("map-text");
 				$('#map-2-text, #map-3-text').fadeOut(0);
 				$('#map-2, #map-3').fadeOut(0);
+				$('.b-mt1').fadeIn(0);
+				$('.b-mt2').fadeOut(0);
 			});
 		});	
 	
@@ -57,6 +59,8 @@
 				$('#mt1, #mt3').addClass("map-text");
 				$('#map-1-text, #map-3-text').fadeOut(0);
 				$('#map-1, #map-3').fadeOut(0);
+				$('.b-mt2').fadeIn(0);
+				$('.b-mt1').fadeOut(0);
 			});
 		});	
 	
