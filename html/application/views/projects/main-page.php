@@ -29,7 +29,7 @@
 					<img src="<?php echo base_url(); ?>images/ffs/project-works.png" alt="Проектные работы">
 					<h1>Проектные работы</h1>
 					<a href="<?php echo base_url(); ?>projects/works/base">Общая информация</a><br>							
-					<a href="<?php echo base_url(); ?>projects/works/docs">Проектно-сметная документация</a><br>
+					<a href="<?php echo base_url(); ?>projects/works/documentation">Проектно-сметная документация</a><br>
 					<a href="<?php echo base_url(); ?>projects/works/expertise">Сопровождение экспертизы</a><br>
 					<a href="<?php echo base_url(); ?>projects/works/nadzor">Авторский надзор</a>				
 				</div>

@@ -27,6 +27,7 @@
 			
 			<center><div class="b-map-contaianr">
 	<div class="b-title">География поставок</div>
+	
 	<div class="b-map">
 		<img src="images/map1.png" alt="" usemap="#Map">
 		<map name="Map">
@@ -469,6 +470,10 @@
 			</div>
 		</div>
 	</div>
-</div></center>
+</div>
+
+	<br><br><img src="<?php echo base_url(); ?>images/ffs/circles.png" />
+
+</center>
 
 		</div>		
