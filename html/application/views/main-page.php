@@ -61,7 +61,7 @@
 		<div class="b-map-point7"><img src="images/b-map-7.png" alt=""></div>
 	</div>
 
-	<img src="<?php echo base_url(); ?>images/circles-01.png" style="position:absolute; bottom:-80px; right:120px;"/>
+	<!--<img src="<?php echo base_url(); ?>images/circles-01.png" style="position:absolute; bottom:-80px; right:120px;"/>-->
 	
 	<div class="b-markers">
 		<div class="b-map1">
