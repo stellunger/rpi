@@ -11,8 +11,17 @@
 					<span>Заполнить опросный лист</span></a></div>
 					<div class="clear"></div>
 									
-					<center><img src="<?php echo base_url(); ?>images/products/nefteulovitel-plan.png" /></center>
-					<center><img src="<?php echo base_url(); ?>images/products/nefteulovitel-plan2.png" /></center>
+					<center><a href="<? echo base_url(); ?>images/products/nefteulovitel-plan1-big.png" data-lightbox="plans">
+					<img src="<? echo base_url(); ?>images/products/nefteulovitel-plan1.png" /></a></center>
+
+					<center><a href="<? echo base_url(); ?>images/products/nefteulovitel-plan2-big.png" data-lightbox="plans">
+					<img src="<? echo base_url(); ?>images/products/nefteulovitel-plan2.png" /></a></center>
+
+					<center><a href="<? echo base_url(); ?>images/products/nefteulovitel-plan3-big.png" data-lightbox="plans">
+					<img src="<? echo base_url(); ?>images/products/nefteulovitel-plan3.png" /></a></center>
+
+					<center><a href="<? echo base_url(); ?>images/products/nefteulovitel-plan4-big.png" data-lightbox="plans">
+					<img src="<? echo base_url(); ?>images/products/nefteulovitel-plan4.png" /></a></center>
 
 				</div>
 				<div class="clear"></div>

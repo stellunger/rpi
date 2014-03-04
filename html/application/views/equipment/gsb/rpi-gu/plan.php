@@ -7,13 +7,14 @@
 					<a href="size"><div id="primeneniye-button">Размеры</div></a>
 					<a href="plan"><div id="opisaniye-button">Чертеж</div></a>
 
-					<!--<div id="opros-list-button"><a href="questionnaire.html"><img src="<?php echo base_url(); ?>images/d4.png" alt="">
-					<span>Заполнить опросный лист</span></a></div>-->
+					<div id="opros-list-button"><a href="<? echo base_url(); ?>ol/RPI-GU.docx"><img src="<?php echo base_url(); ?>images/d4.png" alt="">
+					<span>Заполнить опросный лист</span></a></div>
 					<div class="clear"></div>
 
 					<br>
 									
-					<center><img src="<?php echo base_url(); ?>images/products/giroulovitel-plan.png" /></center>
+					<center><a href="<? echo base_url(); ?>images/products/giroulovitel-plan-big.png" data-lightbox="plans">
+					<img src="<? echo base_url(); ?>images/products/giroulovitel-plan.png" /></a></center>
 
 				</div>
 				<div class="clear"></div>

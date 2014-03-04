@@ -5,8 +5,8 @@
 					
 					<!--<a href="main"><div id="opisaniye-button">Описание</div></a>-->
 														
-					<!--<div id="opros-list-button"><a href="questionnaire.html"><img src="<?php echo base_url(); ?>images/d4.png" alt="">
-					<span>Заполнить опросный лист</span></a></div>-->
+					<div id="opros-list-button"><a href="<? echo base_url(); ?>ol/RPI-KOLODCI.docx"><img src="<?php echo base_url(); ?>images/d4.png" alt="">
+					<span>Заполнить опросный лист</span></a></div>
 					<div class="clear"></div>
 
 					<br>

@@ -7,9 +7,16 @@
 
 	<!-- css -->	
 	<link href="<?php echo base_url(); ?>css/style.css" type="text/css" rel="stylesheet">
-	<script type="text/javascript" src="<?php echo base_url(); ?>js/jquery-2.0.3.min.js"></script>
+	<link href="<?php echo base_url(); ?>css/lightbox.css" rel="stylesheet" />
+		
+	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+
+	<script src="<?php echo base_url(); ?>js/lightbox-2.6.min.js"></script>
+	
 	<script type="text/javascript" src="<?php echo base_url(); ?>js/effects.js"></script>
-	<script type="text/javascript" src="<?php echo base_url(); ?>js/jquery.validate.js"></script>
+	<script type="text/javascript" src="<?php echo base_url(); ?>js/jquery.validate.js"></script>	
+	
+
 	<link rel="stylesheet" media="screen" href="http://openfontlibrary.org/face/sansus-webissimo" rel="stylesheet" type="text/css"/>
 	<!-- title -->
 	<title><?php echo $title; ?></title>

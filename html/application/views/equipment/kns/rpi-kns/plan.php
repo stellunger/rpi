@@ -10,7 +10,8 @@
 					<span>Заполнить опросный лист</span></a></div>
 					<div class="clear"></div>
 									
-					<center><img src="<?php echo base_url(); ?>images/products/kns-plan.png" /></center>
+					<center><a href="<? echo base_url(); ?>images/products/kns-plan-big.png" data-lightbox="plans">
+					<img src="<? echo base_url(); ?>images/products/kns-plan.png" /></a></center>
 
 				</div>
 				<div class="clear"></div>

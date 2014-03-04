@@ -13,7 +13,8 @@
 
 					<br>
 									
-					<center><img src="<?php echo base_url(); ?>images/products/bioreaktor-plan.png" /></center>
+					<a href="<? echo base_url(); ?>images/products/bioreaktor-plan-big.png" data-lightbox="plans">
+					<img src="<? echo base_url(); ?>images/products/bioreaktor-plan.png" /></a>
 
 				</div>
 				<div class="clear"></div>

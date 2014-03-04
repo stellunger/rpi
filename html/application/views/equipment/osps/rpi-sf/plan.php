@@ -11,8 +11,11 @@
 					<span>Заполнить опросный лист</span></a></div>
 					<div class="clear"></div>
 									
-					<center><img src="<?php echo base_url(); ?>images/products/sf-plan.png" /></center>
-					<center><img src="<?php echo base_url(); ?>images/products/sf-plan2.png" /></center>
+					<center><a href="<? echo base_url(); ?>images/products/sf-plan1-big.png" data-lightbox="plans">
+					<img src="<? echo base_url(); ?>images/products/sf-plan1.png" /></a></center>
+
+					<center><a href="<? echo base_url(); ?>images/products/sf-plan2-big.png" data-lightbox="plans">
+					<img src="<? echo base_url(); ?>images/products/sf-plan2.png" /></a></center>
 
 				</div>
 				<div class="clear"></div>
