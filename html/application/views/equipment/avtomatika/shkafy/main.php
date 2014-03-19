@@ -43,7 +43,7 @@
 
 					<br>
 
-					<center><img src="<?php echo base_url(); ?>images/products/cyberynsi-001.png" /></center>
+					<p align=center><img src="<?php echo base_url(); ?>images/ffs/models/avtomatika.png" /></p>
 										
 				</div>
 				<div class="clear"></div>

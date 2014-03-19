@@ -73,6 +73,8 @@
 					<p>Комплексы реагентной обработки.</p>
 
 					<p>Установки УФ-обеззараживания.</p>
+
+					<p align=center><img src="<?php echo base_url(); ?>images/ffs/models/rpi-aqua.png" /></p>
 										
 				</div>
 				<div class="clear"></div>

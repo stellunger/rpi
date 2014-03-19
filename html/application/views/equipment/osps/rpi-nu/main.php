@@ -39,6 +39,8 @@
 					способом ассенизаторными машинами через предусмотренные стояки
 					откачки с выводом в колодцы обслуживания.</p>
 
+					<p align=center><img src="<?php echo base_url(); ?>images/ffs/models/rpi-nu.png" /></p>
+
 										
 				</div>
 				<div class="clear"></div>

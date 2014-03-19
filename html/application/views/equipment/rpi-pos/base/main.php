@@ -50,8 +50,7 @@
 
 					<br>
 
-					<center><img src="<?php echo base_url(); ?>images/products/rpi-pos-02.png" /></center>
-
+					<p align=center><img src="<?php echo base_url(); ?>images/ffs/models/rpi-pos.png" /></p>
 										
 				</div>
 				<div class="clear"></div>

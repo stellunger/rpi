@@ -1972,3 +1972,12 @@ display:none;
 .b-mt1{
 display:block;
 }		
+
+.leftimg {
+    float:left; 
+    margin: 7px 7px 7px 0; 
+   }
+.rightimg {
+    float: right; 
+    margin: 7px 0 7px 7px; 
+   }

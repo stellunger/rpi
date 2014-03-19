@@ -56,13 +56,7 @@
 					5. Запорно-регулирующая арматура.<br>
 					6. Шкаф управления.</p>
 
-					<div class="content-l">
-						<center><img src="<?php echo base_url(); ?>images/products/rpi-kns-01.png" alt="Канализационные насосные станции РПИ-КНС"></center>
-					</div>
-
-					<div class="content-r">
-						<img src="<?php echo base_url(); ?>images/products/rpi-kns-02.png" alt="Канализационные насосные станции РПИ-КНС">
-					</div>
+					<p align=center><img src="<?php echo base_url(); ?>images/ffs/models/rpi-kns.png" /></p>
 					
 				</div>
 				<div class="clear"></div>

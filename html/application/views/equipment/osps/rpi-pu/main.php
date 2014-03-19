@@ -31,6 +31,8 @@
 					через предусмотренные стояки откачки с выводом в колодцы
 					обслуживания.</p>
 
+					<p align=center><img src="<?php echo base_url(); ?>images/ffs/models/rpi-pu.png" /></p>
+
 									
 				</div>
 				<div class="clear"></div>

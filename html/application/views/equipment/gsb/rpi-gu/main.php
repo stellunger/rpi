@@ -45,7 +45,7 @@
 
 					<br>
 
-					<center><img src="<?php echo base_url(); ?>images/products/rpi-gu-01.png" alt="Жироуловители РПИ-ЖУ"></center>
+					<p align=center><img src="<?php echo base_url(); ?>images/ffs/models/rpi-gu.png" /></p>
 					
 					
 				</div>

@@ -31,9 +31,7 @@
 					взвесь и осадок, а очищенные сточные воды отводятся на
 					фильтрационную площадку или фильтрационный колодец.</p>
 
-					<div class="content-l">
-						<center><img src="<?php echo base_url(); ?>images/products/rpi-sp-01.png" alt="Септики РПИ-СП"></center>
-					</div>
+					<p align=center><img src="<?php echo base_url(); ?>images/ffs/models/rpi-sp.png" /></p>
 
 										
 				</div>

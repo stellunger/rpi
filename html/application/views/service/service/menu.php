@@ -11,6 +11,7 @@
 							<li><a href="<?php echo base_url(); ?>service/service/base">Общая информация</a></li>
 							<li><a href="<?php echo base_url(); ?>service/service/pnr">Пусконаладочные работы</a></li>
 							<li><a href="<?php echo base_url(); ?>service/service/obslugivanie">Сервисное обслуживание</a></li>
+							<li><a href="<?php echo base_url(); ?>service/service/remont">Ремонт насосного оборудования</a></li>
 							<li><a href="<?php echo base_url(); ?>service/service/emergency">Аварийная служба</a></li>
 						</ul>
 					</div>					

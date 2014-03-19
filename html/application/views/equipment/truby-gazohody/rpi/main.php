@@ -51,13 +51,7 @@
 					7. Ствол не требует покраски во время всего срока службы.<br>
 					8. Красивый эстетический вид.</p>
 
-					<div class="content-l">
-						<center><img src="<?php echo base_url(); ?>images/products/truby-01.jpg" alt=""></center>
-					</div>
-
-					<div class="content-r">
-						<center><img src="<?php echo base_url(); ?>images/products/truby-02.jpg" alt=""></center>
-					</div>
+					<p align=center><img src="<?php echo base_url(); ?>images/ffs/models/gazohody.png" /></p>
 										
 				</div>
 				<div class="clear"></div>

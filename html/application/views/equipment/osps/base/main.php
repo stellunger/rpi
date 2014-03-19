@@ -32,7 +32,7 @@
 
 					<br>
 
-					<center><img src="<?php echo base_url(); ?>images/products/osps-01.png" /></center>
+					<p align=center><img src="<?php echo base_url(); ?>images/ffs/models/osps.png" /></p>
 					
 				</div>
 				<div class="clear"></div>

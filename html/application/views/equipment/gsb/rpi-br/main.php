@@ -28,6 +28,8 @@
 					биореактор очищенные сточные воды отводятся на фильтрационную
 					площадку или фильтрационный колодец.</p>
 
+					<p align=center><img src="<?php echo base_url(); ?>images/ffs/models/rpi-br.png" /></p>
+
 					
 				</div>
 				<div class="clear"></div>

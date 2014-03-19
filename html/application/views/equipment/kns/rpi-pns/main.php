@@ -41,13 +41,7 @@
 					5. Запорно-регулирующая арматура.<br>
 					6. Шкаф управления.</p>
 
-					<div class="content-l">
-						<center><img src="<?php echo base_url(); ?>images/products/rpi-pns-01.png" alt="Повысительные насосные станции РПИ-ПНС"></center>
-					</div>
-
-					<div class="content-r">
-						<img src="<?php echo base_url(); ?>images/products/rpi-pns-02.png" alt="Повысительные насосные станции РПИ-ПНС">
-					</div>
+					<p align=center><img src="<?php echo base_url(); ?>images/ffs/models/rpi-pns.png" /></p>
 					
 				</div>
 				<div class="clear"></div>
