@@ -43,10 +43,15 @@
 					<h3>г. Тюмень,<br>ул. Герцена 53, офис 218</h3>
 				</div>
 				<div class="box3">
-					<!--<h1>Москва</h1>
-					<h2><a href="mailto:info@sk-rosprom.ru">info@sk-rosprom.ru</a><br>+7 (343) 374-59-20</h2>
-					<h3>г. Екатеринбург,<br>ул. Малышева 51 офис 8-10</h3>-->
+					<h1>Челябинск</h1>
+					<h2><a href="mailto:info-ch@sk-rosprom.ru">info-ch@sk-rosprom.ru</a><br>+7 (351) 750-38-37</h2>
+					<h3>г. Челябинск,<br>ул. Производственная 4А, о. 303</h3>
 				</div>
+				<div class="box3">
+					<h1>Уфа</h1>
+					<h2><a href="mailto:info-ufa@sk-rosprom.ru">info-ufa@sk-rosprom.ru</a><br>+7 (347) 242-73-33</h2>
+					<h3>г. Уфа,<br>ул. Первомайская 24-4</h3>
+				</div>				
 				<div class="box3">
 					<h4>ГК "РосПромИнжиниринг"</h4>
 					<!--<h5>Создание сайта: <a href="#">Radigital</a></h5>-->

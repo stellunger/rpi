@@ -1750,7 +1750,7 @@
 		
 		#map {
 		position:relative;
-		width:600px;
+		width:800px;
 		margin:0;
 		padding:0;
 		background:#ffffff; 
@@ -1796,11 +1796,19 @@
 		display:none;
 		}
 
+		#map-4-text {
+		display:none;
+		}
+
 		#map-2 {
 		display:none;
 		}
 		
 		#map-3 {
+		display:none;
+		}
+
+		#map-4 {
 		display:none;
 		}
 		
@@ -1966,7 +1974,7 @@
 		}
 		
 		
-.b-mt1, .b-mt2{
+.b-mt1, .b-mt2, .b-mt3, .b-mt4{
 display:none;
 }
 .b-mt1{

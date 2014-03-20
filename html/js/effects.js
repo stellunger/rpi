@@ -41,12 +41,14 @@
 				$('#map-1-text').fadeIn(0);
 				$('#map-1').fadeIn(0);
 				$('#mt1').addClass("map-text-active");
-				$('#mt2, #mt3').removeClass("map-text-active");
-				$('#mt2, #mt3').addClass("map-text");
-				$('#map-2-text, #map-3-text').fadeOut(0);
-				$('#map-2, #map-3').fadeOut(0);
+				$('#mt2, #mt3, #mt4').removeClass("map-text-active");
+				$('#mt2, #mt3, #mt4').addClass("map-text");
+				$('#map-2-text, #map-3-text, #map-4-text').fadeOut(0);
+				$('#map-2, #map-3, #map4').fadeOut(0);
 				$('.b-mt1').fadeIn(0);
 				$('.b-mt2').fadeOut(0);
+				$('.b-mt3').fadeOut(0);
+				$('.b-mt4').fadeOut(0);
 			});
 		});	
 	
@@ -55,12 +57,14 @@
 				$('#map-2-text').fadeIn(0);
 				$('#map-2').fadeIn(0);
 				$('#mt2').addClass("map-text-active");
-				$('#mt1, #mt3').removeClass("map-text-active");
-				$('#mt1, #mt3').addClass("map-text");
-				$('#map-1-text, #map-3-text').fadeOut(0);
-				$('#map-1, #map-3').fadeOut(0);
+				$('#mt1, #mt3, #mt4').removeClass("map-text-active");
+				$('#mt1, #mt3, #mt4').addClass("map-text");
+				$('#map-1-text, #map-3-text, #map-4-text').fadeOut(0);
+				$('#map-1, #map-3, #mt-4').fadeOut(0);
 				$('.b-mt2').fadeIn(0);
 				$('.b-mt1').fadeOut(0);
+				$('.b-mt3').fadeOut(0);
+				$('.b-mt4').fadeOut(0);
 			});
 		});	
 	
@@ -69,10 +73,30 @@
 				$('#map-3-text').fadeIn(0);
 				$('#map-3').fadeIn(0);
 				$('#mt3').addClass("map-text-active");
-				$('#mt1, #mt2').removeClass("map-text-active");
-				$('#mt1, #mt2').addClass("map-text");
-				$('#map-1-text, #map-2-text').fadeOut(0);
-				$('#map-1, #map-2').fadeOut(0);
+				$('#mt1, #mt2, #mt4').removeClass("map-text-active");
+				$('#mt1, #mt2, #mt4').addClass("map-text");
+				$('#map-1-text, #map-2-text, #map-4-text').fadeOut(0);
+				$('#map-1, #map-2, #map-4').fadeOut(0);
+				$('.b-mt3').fadeIn(0);
+				$('.b-mt1').fadeOut(0);
+				$('.b-mt2').fadeOut(0);
+				$('.b-mt4').fadeOut(0);
+			});
+		});	
+
+		$(document).ready(function () {
+			$('#mt4').click(function(){
+				$('#map-4-text').fadeIn(0);
+				$('#map-4').fadeIn(0);
+				$('#mt4').addClass("map-text-active");
+				$('#mt1, #mt2, #mt3').removeClass("map-text-active");
+				$('#mt1, #mt2, #mt3').addClass("map-text");
+				$('#map-1-text, #map-2-text, #map-3-text').fadeOut(0);
+				$('#map-1, #map-2, #map-3').fadeOut(0);
+				$('.b-mt4').fadeIn(0);
+				$('.b-mt1').fadeOut(0);
+				$('.b-mt2').fadeOut(0);
+				$('.b-mt3').fadeOut(0);
 			});
 		});	
 
