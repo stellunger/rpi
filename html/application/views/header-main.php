@@ -586,5 +586,7 @@ background:url(images/arrows.png) 0 -5px;
 					<li><a href="<?php echo base_url(); ?>contacts">Контакты</a></li>
 				</ul>
 			</div>
-			<h1><span>Инжиниринговый</span><br><span>кластер</span><br><span>инфраструктурных</span><br><span>решений</span></h1>
+			<h1><span>ГК "РосПромИнжиниринг"- Лидер</span><br><span>Инжинирингового Кластера</span><br>
+			<span>Инфраструктурных Проектов</span></h1>
+			<!--<h1><span>Инжиниринговый</span><br><span>кластер</span><br><span>инфраструктурных</span><br><span>решений</span></h1>-->
 		</div>
