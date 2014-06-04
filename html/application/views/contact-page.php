@@ -30,8 +30,7 @@
 							<h3>г. Челябинск,<br>ул. Производственная 4А, офис 303</h3>
 						</div>		
 						<div id="map-4-text">
-							<h2><a href="mailto:info-ch@sk-rosprom.ru">info-ufa@sk-rosprom.ru</a><br>+7 (347) 242-73-33</h2>
-							<h3>г. Уфа,<br>ул. Первомайская 24-4</h3>
+							<h2><a href="mailto:info-ch@sk-rosprom.ru">info@sk-rosprom.ru</a></h2>							
 						</div>				
 						<div class="clear"></div>
 					</div>
@@ -135,11 +134,8 @@
 
 					<div class="box4">
 						<h1>Офис в Уфе</h1>
-						<h3>Директор</h3>
-						<h2><span>Смирнов Юрий Юрьевич</span><br>+7 937 320-19-68</h2>
-						<br>
-						<h3>Менеджер</h3>
-						<h2><span>Габбасов Альберт Ирекович</span><br>+7 927 236-40-14</h2>
+						<h3>Региональный представитель</h3>
+						<h2><span>Александр Селищев</span><br>+7 937 320-19-68<br>СК "РосПромИнжиниринг"<br><a href="mailto:selishev@sk-rosprom.ru" style="color:#0076B7;">selishev@sk-rosprom.ru</a></h2>						
 					</div>
 					<div class="clear"></div>
 				</div>

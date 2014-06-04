@@ -49,8 +49,8 @@
 				</div>
 				<div class="box3">
 					<h1>Уфа</h1>
-					<h2><a href="mailto:info-ufa@sk-rosprom.ru">info-ufa@sk-rosprom.ru</a><br>+7 (347) 242-73-33</h2>
-					<h3>г. Уфа,<br>ул. Первомайская 24-4</h3>
+					<h2><a href="mailto:info@sk-rosprom.ru">info@sk-rosprom.ru</a><!--<br>+7 (347) 242-73-33--></h2><br><br><br>
+					<!--<h3>г. Уфа,<br>ул. Первомайская 24-4</h3>-->
 				</div>				
 				<div class="box3">
 					<h4>ГК "РосПромИнжиниринг"</h4>
