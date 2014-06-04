@@ -58,7 +58,6 @@
 
 						<h3>Менеджеры по продажам</h3>
 						<h2><span>Анна Иванова</span><br>+7 (343) 374-59-20 доб. 106</h2>	
-						<h2><span>Алексей Золотарев</span><br>+7 (343) 374-59-20 доб. 108</h2>	
 						<h2><span>Михаил Мандалиани</span><br>+7 (343) 374-59-20 доб. 109</h2>	
 					</div>		
 
@@ -135,7 +134,7 @@
 					<div class="box4">
 						<h1>Офис в Уфе</h1>
 						<h3>Региональный представитель</h3>
-						<h2><span>Александр Селищев</span><br>+7 937 320-19-68<br>СК "РосПромИнжиниринг"<br><a href="mailto:selishev@sk-rosprom.ru" style="color:#0076B7;">selishev@sk-rosprom.ru</a></h2>						
+						<h2><span>Александр Селищев</span><br>+7 937 320-19-68<br><a href="mailto:selishev@sk-rosprom.ru" style="color:#0076B7;">selishev@sk-rosprom.ru</a></h2>						
 					</div>
 					<div class="clear"></div>
 				</div>
