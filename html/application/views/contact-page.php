@@ -134,7 +134,7 @@
 					<div class="box4">
 						<h1>Офис в Уфе</h1>
 						<h3>Региональный представитель</h3>
-						<h2><span>Александр Селищев</span><br>+7 937 320-19-68<br><a href="mailto:selishev@sk-rosprom.ru" style="color:#0076B7;">selishev@sk-rosprom.ru</a></h2>						
+						<h2><span>Александр Селищев</span><br>+7 917 809-72-43<br><a href="mailto:selishev@sk-rosprom.ru" style="color:#0076B7;">selishev@sk-rosprom.ru</a></h2>						
 					</div>
 					<div class="clear"></div>
 				</div>
