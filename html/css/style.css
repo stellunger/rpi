@@ -87,13 +87,14 @@
 			-moz-background-size: cover;
 			-o-background-size: cover;
 			background-size: cover;
+			background-position: 0px 149px;
 		}
 		
 		#header1 {
 		position:relative;
 		width:100%;
 		margin:0;
-		padding:200px 0 20px 0;
+		padding:130px 0 20px 0;
 		background:#f0f0f0; 
 		}
 			
@@ -101,22 +102,51 @@
 		position:relative;
 		width:100%;
 		margin:0;
-		padding:150px 0 0 0;
+		padding:110px 0 0 0;
 		background:#f0f0f0; 
 		}
-		
+		#header_n
+			{
+			padding:120px 0 0 0 !important ;
+			} 
 		#logo {
-		width:296px;
-		height:293px;
-		padding:0;
-		position:absolute;
-		top:-120px;
-		left:50%;
-		margin-left:-148px;
-		z-index:1;
-		background:url('../images/logo.png') no-repeat top left; 
+		width: 100%;
+height: 150px;
+padding: 0;
+position: absolute;
+top: 0px;
+z-index: 1;
+background: url('../images/logo3.png') no-repeat top left;
+background-color: #ffffff;
+background-size: 360px 70px;
+background-position: 16px 15px;
 		}
-			
+		#c_logo
+			{
+			height: 150px;
+			width: 100%;
+			position: absolute;
+			top:15px;
+			left: -25px;
+			z-index: 1;
+			text-align: right;
+			font-family: NeoSansPro-Regular, Arial;
+			font-weight: normal;
+			font-size: 14px;
+			line-height: 16px;
+			}
+		#c_logo b
+			{
+			font-family: NeoSansPro-Medium, Arial;
+			line-height: 20px;
+			}	
+		#c_logo a
+			{
+			color: #0076B7;
+			border-bottom: 1px solid #0076B7;
+			font-family: NeoSansPro-Regular, Arial;
+			line-height: 20px;	
+			}
 		#menu-wrapper {
 		position:absolute;
 		top:100px;
@@ -125,17 +155,17 @@
 		height:50px;
 		margin:0;
 		padding:0;
-		background:rgba(209,46,54,0.8);
 		z-index:2;
+		box-shadow:0px 2px 4px rgba(50, 50, 50, 0.75);
+		background: linear-gradient(0deg, rgb(204, 79, 86) 30%, rgb(217, 86, 93) 70%);
 		}	
-		
 		ul {
 		margin:0;
 		padding:0;
 		}
 				
 		#menu {
-		width:1000px;
+		width:1100px;
 		margin:0 auto;
 		padding:0;
 		list-style-type:none;
@@ -147,6 +177,7 @@
 		line-height:14px;
 		text-align:center;
 		color:#ffffff;
+		text-shadow: 0px -1px 0px rgba(30, 30, 30, 0.8);
 		}
 
 		#menu li {
@@ -168,21 +199,22 @@
 		#header h1 {
 		width:100%;
 		max-width:970px;
-		margin:100px auto;
+		margin:120px auto;
 		padding:0;
 		font-family:NeoSansPro-Light, Arial;
 		font-weight:normal;
-		text-align:left;
+		text-align:center;
 		font-size:46px;
 		line-height:62px;
 		cursor:default;
 		color:#ffffff;
+		
 		}
 	
 		#header h1 span {
 		margin:0;
 		padding:3px 15px;
-		background:rgba(66,117,179,0.8);
+		background:rgba(66,117,179,0.5);
 		}			
 			
 /* geography
@@ -764,7 +796,28 @@
 		cursor:default;
 		clear:both;
 		}
-		
+
+		#news
+			{
+			width:100%;
+			margin:0;
+			padding:0 15px 25px 20px;
+			float:left
+			}
+		#news span
+			{
+			font-family:NeoSansPro-Medium, Arial;
+			font-size: 16px;	
+			}
+		#news a
+			{
+			color: #0076B7;
+			border-bottom: 1px solid #0076B7;
+			font-family: NeoSansPro-Regular, Arial;
+			line-height: 20px;
+			font-size: 16px;
+			}		
+
 		#opisaniye-button {
 		width:130px;
 		margin:0;

@@ -574,6 +574,12 @@ background:url(images/arrows.png) 0 -5px;
 			
 		<div id="header">
 			<div id="logo"></div>
+			<div id="c_logo">
+				<a href="mailto:info@sk-rosprom.ru">info@sk-rosprom.ru</a></br>
+				<b>+7 (343) 374-59-20</b></br>
+				г. Екатеринбург,</br>
+				ул. Малышева 51, офис 8-10</br>
+			</div>
 			<div id="menu-wrapper">
 				<ul id="menu">
 					<li><a href="<?php echo base_url(); ?>">Главная</a></li>
@@ -586,7 +592,8 @@ background:url(images/arrows.png) 0 -5px;
 					<li><a href="<?php echo base_url(); ?>contacts">Контакты</a></li>
 				</ul>
 			</div>
-			<h1><span>ГК "РосПромИнжиниринг"- лидер</span><br><span>Инжинирингового Кластера</span><br>
-			<span>Инфраструктурных проектов</span></h1>
-			<!--<h1><span>Инжиниринговый</span><br><span>кластер</span><br><span>инфраструктурных</span><br><span>решений</span></h1>-->
+			<a href="http://claster.pro">
+				<h1><span style="cursor:pointer;">Лидер Инжинирингового Кластера</span><br>
+				<span style="cursor:pointer;">Инфраструктурных проектов</span></h1>
+			</a>
 		</div>
