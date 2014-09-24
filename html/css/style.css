@@ -232,7 +232,7 @@ background-position: 16px 15px;
 		#box1 {
 		position: absolute;
 top: -150px;
-left: 50%;
+left: 60%;
 width: 1110px;
 margin-left: -549px;
 padding: 0;
@@ -245,7 +245,7 @@ padding: 0;
 	float: left;
 	background: #ffffff;
 	text-align: center;
-	height: 220px;
+	/*height: 220px;*/
 	vertical-align: top;
 	border: solid 1px #dbdbdb;
 		}
@@ -262,7 +262,7 @@ padding: 0;
 		-khtml-border-radius:50%;
 		}	
 		#box1 h1 {
-		height: 50px;
+		/*height: 50px;*/
 /* margin: 0; */
 /* padding: 20px 0 10px 0; */
 font-family: "Sansus Webissimo", Arial;

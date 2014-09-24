@@ -24,7 +24,7 @@
 						</div>						
 						<div id="map-2-text">
 							<h2><a href="mailto:info-nord@sk-rosprom.ru">info-nord@sk-rosprom.ru</a><br>+7 (3452) 21-56-86</h2>
-							<h3>г. Тюмень,<br>ул. Немцова 22, офис ???</h3>
+							<h3>г. Тюмень,<br>ул. Немцова 22</h3>
 						</div>	
 						<div id="map-3-text">
 							<h2><a href="mailto:info-ch@sk-rosprom.ru">info-ch@sk-rosprom.ru</a><br>+7 (351) 750-38-37</h2>

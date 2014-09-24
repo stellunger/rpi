@@ -16,7 +16,7 @@
 				<a href="<?php echo base_url(); ?>montage/montage/base"><div class="box1">
 					<h1>Монтаж</h1>
 					<p>Строительно-монтажные работы любой сложности «под ключ».</p>
-					<img src="images/3.png" alt="">
+					<br><img src="images/3.png" alt="">
 				</div>
 				<a href="<?php echo base_url(); ?>service/service/base"><div class="box1">
 					<h1>Сервис</h1>
