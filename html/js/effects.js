@@ -41,14 +41,15 @@
 				$('#map-1-text').fadeIn(0);
 				$('#map-1').fadeIn(0);
 				$('#mt1').addClass("map-text-active");
-				$('#mt2, #mt3, #mt4').removeClass("map-text-active");
-				$('#mt2, #mt3, #mt4').addClass("map-text");
-				$('#map-2-text, #map-3-text, #map-4-text').fadeOut(0);
-				$('#map-2, #map-3, #map4').fadeOut(0);
+				$('#mt2, #mt3, #mt4, #mt5').removeClass("map-text-active");
+				$('#mt2, #mt3, #mt4, #mt5').addClass("map-text");
+				$('#map-2-text, #map-3-text, #map-4-text,#map-5-text').fadeOut(0);
+				$('#map-2, #map-3, #map4, #mt-5').fadeOut(0);
 				$('.b-mt1').fadeIn(0);
 				$('.b-mt2').fadeOut(0);
 				$('.b-mt3').fadeOut(0);
 				$('.b-mt4').fadeOut(0);
+				$('.b-mt5').fadeOut(0);
 			});
 		});	
 	
@@ -57,14 +58,15 @@
 				$('#map-2-text').fadeIn(0);
 				$('#map-2').fadeIn(0);
 				$('#mt2').addClass("map-text-active");
-				$('#mt1, #mt3, #mt4').removeClass("map-text-active");
-				$('#mt1, #mt3, #mt4').addClass("map-text");
-				$('#map-1-text, #map-3-text, #map-4-text').fadeOut(0);
-				$('#map-1, #map-3, #mt-4').fadeOut(0);
+				$('#mt1, #mt3, #mt4, #mt5').removeClass("map-text-active");
+				$('#mt1, #mt3, #mt4, #mt5').addClass("map-text");
+				$('#map-1-text, #map-3-text, #map-4-text,#map-5-text').fadeOut(0);
+				$('#map-1, #map-3, #mt-4, #mt-5').fadeOut(0);
 				$('.b-mt2').fadeIn(0);
 				$('.b-mt1').fadeOut(0);
 				$('.b-mt3').fadeOut(0);
 				$('.b-mt4').fadeOut(0);
+				$('.b-mt5').fadeOut(0);
 			});
 		});	
 	
@@ -73,14 +75,15 @@
 				$('#map-3-text').fadeIn(0);
 				$('#map-3').fadeIn(0);
 				$('#mt3').addClass("map-text-active");
-				$('#mt1, #mt2, #mt4').removeClass("map-text-active");
-				$('#mt1, #mt2, #mt4').addClass("map-text");
-				$('#map-1-text, #map-2-text, #map-4-text').fadeOut(0);
-				$('#map-1, #map-2, #map-4').fadeOut(0);
+				$('#mt1, #mt2, #mt4, #mt5').removeClass("map-text-active");
+				$('#mt1, #mt2, #mt4, #mt5').addClass("map-text");
+				$('#map-1-text, #map-2-text, #map-4-text,#map-5-text').fadeOut(0);
+				$('#map-1, #map-2, #map-4, #mt-5').fadeOut(0);
 				$('.b-mt3').fadeIn(0);
 				$('.b-mt1').fadeOut(0);
 				$('.b-mt2').fadeOut(0);
 				$('.b-mt4').fadeOut(0);
+				$('.b-mt5').fadeOut(0);
 			});
 		});	
 
@@ -89,17 +92,33 @@
 				$('#map-4-text').fadeIn(0);
 				$('#map-4').fadeIn(0);
 				$('#mt4').addClass("map-text-active");
-				$('#mt1, #mt2, #mt3').removeClass("map-text-active");
-				$('#mt1, #mt2, #mt3').addClass("map-text");
-				$('#map-1-text, #map-2-text, #map-3-text').fadeOut(0);
-				$('#map-1, #map-2, #map-3').fadeOut(0);
+				$('#mt1, #mt2, #mt3,#mt5').removeClass("map-text-active");
+				$('#mt1, #mt2, #mt3,#mt5').addClass("map-text");
+				$('#map-1-text, #map-2-text, #map-3-text,#map-5-text').fadeOut(0);
+				$('#map-1, #map-2, #map-3, #mt-5').fadeOut(0);
 				$('.b-mt4').fadeIn(0);
 				$('.b-mt1').fadeOut(0);
 				$('.b-mt2').fadeOut(0);
 				$('.b-mt3').fadeOut(0);
+				$('.b-mt5').fadeOut(0);
 			});
 		});	
-
+$(document).ready(function () {
+			$('#mt5').click(function(){
+				$('#map-5-text').fadeIn(0);
+				$('#map-5').fadeIn(0);
+				$('#mt5').addClass("map-text-active");
+				$('#mt1, #mt2, #mt3, #mt4').removeClass("map-text-active");
+				$('#mt1, #mt2, #mt3, #mt4').addClass("map-text");
+				$('#map-1-text, #map-2-text, #map-3-text, #map-4-text').fadeOut(0);
+				$('#map-1, #map-2, #map-3, #map-4').fadeOut(0);
+				$('.b-mt5').fadeIn(0);
+				$('.b-mt1').fadeOut(0);
+				$('.b-mt2').fadeOut(0);
+				$('.b-mt3').fadeOut(0);
+				$('.b-mt4').fadeOut(0);
+			});
+		});
 /* */
 	
 		$(document).ready(function () {
@@ -250,3 +269,20 @@
 		});
 		
 /* */
+function open_ul(id){
+		if ($('#'+id).is( ":hidden" ))
+			$('#'+id).slideDown( 500 );
+		else
+			$('#'+id).slideUp( 500 );	
+		}
+function op_sub(id)
+	{
+	//$('.in_cat').removeClass('in');
+	$('.in_cat ul').slideUp( 500 );
+	//$('#cat_nav'+id).addClass('in');
+	if ($('#cat'+id).is( ":hidden" ))
+			$('#cat'+id).slideDown( 500 );
+		else
+			$('#cat'+id).slideUp( 500 );	
+	return false;
+	}		
